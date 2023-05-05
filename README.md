@@ -53,7 +53,7 @@ https://user-images.githubusercontent.com/82582574/236429946-42a441c6-bcaf-487b-
 
 
 ## Future Work
-- [ ] Write a code for PID to make sure the bot remains a the centre of the path
+- [ ] Write a modified code for PID to make sure the bot remains stable
 - [ ] Implement other algorithms
 - [ ] Learn about gzmaze so that a maze of any desired structure can be generated
 
