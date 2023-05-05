@@ -5,7 +5,7 @@
 ## Project Mentors
 
 1. [Dev Goti](https://github.com/devgoti16)
-2. Pooja M
+2. [Pooja M](https://github.com/Pooja-murugiah)
 
 ## Project Mentees
 1. Hemang Jamadagni
