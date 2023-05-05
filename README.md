@@ -9,6 +9,10 @@ In this simulation, we aim to model the maze layout and obstacles, as well as th
 ## Technologies Used
 [![Tech_Used](https://skills.thijs.gg/icons?i=py,ROS,Gazebo&theme=dark)](https://skills.thijs.gg)
 
+## Project
+
+Floodfill ALgorithm is used for maze solving
+
 
 ## Installation
 
