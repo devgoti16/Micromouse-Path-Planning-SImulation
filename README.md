@@ -1,4 +1,4 @@
-# Micromouse-Path-Planning-SImulation
+# Micromouse-Path-Planning-Simulation
 To make the micromouse robot capable of reaching the centre of the given maze in the shortest possible time using maze solving algorithms.
 
 ## Introduction
