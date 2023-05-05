@@ -51,6 +51,8 @@ rosrun pkg_techfest_imc final.py
 
 
 https://user-images.githubusercontent.com/82582574/236429946-42a441c6-bcaf-487b-abef-a1fccc6ba1ec.mp4
+Time Taken in secs: 51.03642988204956
+
 
 
 
