@@ -9,6 +9,7 @@ In this simulation, we aim to model the maze layout and obstacles, as well as th
 ## Technologies Used
 [![Tech_Used](https://skills.thijs.gg/icons?i=py,ROS,Gazebo&theme=dark)](https://skills.thijs.gg)
 
+
 ## Installation
 
 ```sh
@@ -43,6 +44,12 @@ rosrun pkg_techfest_imc final.py
 
 ## Implementation
 ![image](https://user-images.githubusercontent.com/82582574/236429137-54a97e09-fb81-4efe-807e-6016c63b1276.png)
+
+
+https://user-images.githubusercontent.com/82582574/236429946-42a441c6-bcaf-487b-abef-a1fccc6ba1ec.mp4
+
+
+
 
 
 ## Future Work
