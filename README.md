@@ -41,6 +41,10 @@ source ~/catkin_ws/devel/setup.bash
 rosrun pkg_techfest_imc final.py
 ```
 
+## Implementation
+![image](https://user-images.githubusercontent.com/82582574/236429137-54a97e09-fb81-4efe-807e-6016c63b1276.png)
+
+
 ## Future Work
 - [ ] Write a code for PID to make sure the bot remains a the centre of the path
 - [ ] Implement other algorithms
