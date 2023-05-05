@@ -41,6 +41,11 @@ source ~/catkin_ws/devel/setup.bash
 rosrun pkg_techfest_imc final.py
 ```
 
+## Future Work
+- [ ] Write a code for PID to make sure the bot remains a the centre of the path
+- [ ] Implement other algorithms
+- [ ] Learn about gzmaze so that a maze of any desired structure can be generated
+
 
 
 ## Project Mentors
