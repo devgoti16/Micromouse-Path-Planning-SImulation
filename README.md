@@ -9,7 +9,36 @@ In this simulation, we aim to model the maze layout and obstacles, as well as th
 ## Technologies Used
 [![Tech_Used](https://skills.thijs.gg/icons?i=py,ROS,Gazebo&theme=dark)](https://skills.thijs.gg)
 
+## Installation
 
+```sh
+git clone https://github.com/KalyaniKasar1/Micromouse-Eklavya.git
+```
+Add this folder in the src directory of your catkin workspace
+Create the src folder if it doesn't already exist by
+```sh
+mkdir src
+```
+Initialise the project with
+```sh
+catkin_make
+source /opt/ros/noetic/setup.bash      #run this and the command below everytime
+source ~/catkin_ws/devel/setup.bash     you need to launch nodes 
+```
+
+### Execution
+Open two terminal windows and run the following commands
+- Terminal 1
+```sh
+source /opt/ros/noetic/setup.bash
+source ~/catkin_ws/devel/setup.bash
+roslaunch pkg_techfest_imc final.launch
+```
+- Terminal 2
+```sh
+source /opt/ros/noetic/setup.bash
+source ~/catkin_ws/devel/setup.bash
+rosrun pkg_techfest_imc final.py
 
 
 
