@@ -39,6 +39,7 @@ roslaunch pkg_techfest_imc final.launch
 source /opt/ros/noetic/setup.bash
 source ~/catkin_ws/devel/setup.bash
 rosrun pkg_techfest_imc final.py
+```
 
 
 
