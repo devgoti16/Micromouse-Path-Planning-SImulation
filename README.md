@@ -12,7 +12,7 @@ In this simulation, we aim to model the maze layout and obstacles, as well as th
 ## Installation
 
 ```sh
-git clone [hhttps://github.com/devgoti16/Micromouse-Path-Planning-SImulation.git]
+git clone https://github.com/devgoti16/Micromouse-Path-Planning-SImulation.git
 ```
 Add this folder in the src directory of your catkin workspace
 Create the src folder if it doesn't already exist by
