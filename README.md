@@ -77,4 +77,4 @@ Time Taken in secs: 51.03642988204956
 1. Hemang Jamadagni
 2. [Madhav Kedia](https://github.com/madhavkedia018)
 3. Pushkaran D
-4. [Adithya Ubaradka](hytps://github.com/AdiPadi2703)
+4. [Adithya Ubaradka](https://github.com/AdiPadi2703)
