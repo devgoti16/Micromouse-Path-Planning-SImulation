@@ -74,7 +74,7 @@ Time Taken in secs: 51.03642988204956
 2. [Pooja M](https://github.com/Pooja-murugiah)
 
 ## Project Mentees
-1. Hemang Jamadagni
+1. [Hemang Jamadagni](https://github.com/Kazedaa)
 2. [Madhav Kedia](https://github.com/madhavkedia018)
 3. Pushkaran D
 4. [Adithya Ubaradka](https://github.com/AdiPadi2703)
